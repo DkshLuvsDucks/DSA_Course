@@ -1,0 +1,17 @@
+programming language-> compiler->machine lvl language -> computer readable
+check low/middle/high lvl language
+interpreter vs compiler
+preprocessor directive
+running program-> process ; process memory contains preprocessor directive
+why does int main end with return 0?
+binary conversion
+1s compliment
+2s compliment
+typecasting
+compilation process detailed
+which lang to use for dsa ?
+bool a = 1 ; ~a = -2 ?? How ??? find out
+arithmetic right shift
+solve 5 , -5 xor
+WHY IS GLOBAL VARIABLE CONSIDERED AS A BAD PRACTICE ??
+How to write and use a header file
