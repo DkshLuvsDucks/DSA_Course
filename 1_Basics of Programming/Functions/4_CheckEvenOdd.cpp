@@ -2,6 +2,8 @@
 using namespace std;
 
 void checkEvenOdd (int n){
+    //can be done using bitwise like this
+    //if ((n & 1) == 0) cout << "Even Number";
     if ((n % 2) == 0){
         cout << "Even Number";
     }
